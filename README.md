@@ -1,5 +1,10 @@
 # Web3 | Blockchain Bootcamp: 06/03 to 06/05
 
+<!-- table of content -->
+- [Web3 | Blockchain Bootcamp: 06/03 to 06/05](#web3--blockchain-bootcamp-0603-to-0605)
+    - [Tools and Technologies:](#tools-and-technologies)
+    - [Quick Notes:](#quick-notes)
+
 ![bitke logo](./download.png)
 
 >A bootcamp by bitcoinke.io on Web3 and Blockhain tools and technologies.
