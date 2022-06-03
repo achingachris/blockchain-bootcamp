@@ -1,7 +1,9 @@
 # Web3 | Blockchain Bootcamp: 06/03 to 06/05
 
 <!-- table of content -->
+## Table of Contents
 - [Web3 | Blockchain Bootcamp: 06/03 to 06/05](#web3--blockchain-bootcamp-0603-to-0605)
+  - [Table of Contents](#table-of-contents)
     - [Tools and Technologies:](#tools-and-technologies)
     - [Quick Notes:](#quick-notes)
 
