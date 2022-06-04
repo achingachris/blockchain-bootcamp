@@ -26,3 +26,18 @@
 - assemblyscript - for safer code, iteraction on top of typescript
 - rust is easy created to avoid the cons of C++
 
+rust projects:
+
+application/binary  - builds an executable file
+library - used to embed in other systems
+
+
+target - build for specific OS
+
+
+functions in rust start with `fn` keyword
+
+
+signed and unsigned 
+mutable and immutable
+
